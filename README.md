@@ -3,6 +3,9 @@
 # Personal Finance Tracker
 A modern, mobile-friendly web application designed to help users take control of their financial health. This app allows for secure authentication, real-time expense tracking, and visual data representation of spending habits.
 
+## Demo 
+[Application Working Demo and Walk through](https://youtu.be/jxdvSoayb9U)
+
 ## 🚀 Features
 Secure Authentication: User sign-up and login powered by InsForge to ensure data privacy.
 
