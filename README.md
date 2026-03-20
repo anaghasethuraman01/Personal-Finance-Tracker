@@ -1,16 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Personal Finance Tracker
+A modern, mobile-friendly web application designed to help users take control of their financial health. This app allows for secure authentication, real-time expense tracking, and visual data representation of spending habits.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+Secure Authentication: User sign-up and login powered by InsForge to ensure data privacy.
 
-## React Compiler
+Income & Expense Management: Easily add, edit, or delete transactions to keep your history accurate.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Document Uploads: Support for uploading bills and receipts directly to specific transactions.
 
-## Expanding the ESLint configuration
+Dynamic Dashboard:  Summaries of Total Income, Total Expenses, and Monthly Savings.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive Pie Chart for a breakdown of expense categories.
+
+Mobile-First Design: Fully responsive interface that works seamlessly on desktops, tablets, and smartphones.
+
+## 🛠️ Tech Stack
+Frontend: [Google Antigravity](https://antigravity.google/) (AI-driven UI generation)
+
+Backend & Database: [InsForge](https://insforge.dev/) (Auth, Database, and Cloud Storage)
+
+Deployment: [Netlify](https://www.netlify.com/)
